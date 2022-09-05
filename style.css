@@ -15,22 +15,26 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
   font-weight: normal;
+  padding-top: 20px;
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E
 }
+h6 {
+  margin-top: 100px;
+}
 
 .top-container {
   background-color: #ABC9FF;
   position: relative;
-  padding-top: 100px;
+  padding-top: 75px;
 }
 .middle-container {
 
 }
 .bottom-container {
-
+  padding-bottom: 70px;
 }
 .top-cloud {
   position: absolute;
@@ -41,4 +45,7 @@ h3 {
   position: absolute;
   bottom: 300px;
   left: 300px;
+}
+.footer-link {
+  padding-top: 100px;
 }
